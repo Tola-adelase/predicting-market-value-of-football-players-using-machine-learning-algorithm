@@ -6,4 +6,3 @@ In this project, I built a predictive model using machine learning regression al
 The predictive model was also used to identify under and overvalued players relative to the market. When specifically looking at undervalued players, it was noted that fame and popularity might be an important factor missing from the model. From these conclusions, one can conclude that the prediction of players market value using machine learning methods can help market values manipulations, as large disparities between actual and predicted results were observed in the project.
  
  
-Jupyter Notebook code: https://tola-adelase.github.io/predicting-market-value-of-football-players-using-machine-learning-algorithm/
