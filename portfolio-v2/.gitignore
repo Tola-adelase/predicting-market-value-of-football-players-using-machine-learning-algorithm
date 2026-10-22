@@ -1,0 +1,7 @@
+data/*.csv
+data/*.pkl
+data/*Pickle
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+outputs/
